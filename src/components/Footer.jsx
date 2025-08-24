@@ -5,9 +5,9 @@ export default function Footer() {
         <span>© {new Date().getFullYear()} Sterling Dev</span>
         <div className="flex gap-4">
           {/* Replace with your real links */}
-          <a href="https://linkedin.com/in/yourprofile" className="hover:text-ocean-300">LinkedIn</a>
-          <a href="https://github.com/yourprofile" className="hover:text-ocean-300">GitHub</a>
-          <a href="https://calendly.com/yourcalendly/intro" className="hover:text-ocean-300">Book a Call</a>
+          {/* <a href="https://linkedin.com/in/yourprofile" className="hover:text-ocean-300">LinkedIn</a> */}
+          <a href="https://github.com/Swinston07" className="hover:text-ocean-300">GitHub</a>
+          <a href="https://calendly.com/sterlingenterpriseholdings" className="hover:text-ocean-300">Book a Call</a>
         </div>
       </div>
     </footer>

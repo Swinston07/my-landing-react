@@ -20,7 +20,7 @@ export default function About() {
               <a href="#contact" className="rounded-xl bg-kelp-400 px-5 py-3 font-semibold text-black hover:bg-kelp-300">
                 Let’s work together
               </a>
-              <a href="https://github.com/yourprofile" target="_blank" rel="noreferrer"
+              <a href="https://github.com/Swinston07" target="_blank" rel="noreferrer"
                  className="rounded-xl border border-ocean-800 px-5 py-3 font-semibold hover:border-ocean-500">
                 GitHub
               </a>
